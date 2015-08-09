@@ -117,7 +117,7 @@
 "origin" "384 192 -35"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 }
 {
 "angle" "360"
@@ -144,10 +144,10 @@
 "origin" "896 512 125"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "480 128 317"
@@ -165,17 +165,17 @@
 "origin" "1280 129 894"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "962 128 640"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "1598 -128 640"
@@ -186,10 +186,10 @@
 "origin" "896 546 640"
 "radius" "5 0 50"
 "angles" "0 90 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "1438 448 640"
@@ -200,17 +200,17 @@
 "origin" "1122 -448 640"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "2432 -546 640"
 "radius" "5 0 50"
 "angles" "0 270 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 90 0"
 "radius" "5 0 50"
 "origin" "2048 -1214 512"
@@ -221,10 +221,10 @@
 "origin" "2432 -896 637"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "0 256 125"
@@ -235,10 +235,10 @@
 "origin" "2048 -1416 -99"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "1152 -2624 -99"
@@ -249,24 +249,24 @@
 "origin" "2048 -2068 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "2304 -2068 -88"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "1792 -2068 -88"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "2048 -2284 -88"
@@ -277,24 +277,24 @@
 "origin" "1792 -2284 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "2304 -2284 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "1408 -2284 -88"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "896 -2284 -88"
@@ -305,24 +305,24 @@
 "origin" "1152 -2284 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "896 -2068 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "1408 -2068 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "1152 -2068 -88"
@@ -484,35 +484,35 @@
 "model" "*14"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "-16 -848 125"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "672 -128 -99"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "96 -384 -99"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "1664 -1152 125"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "2176 -704 -99"
@@ -530,23 +530,23 @@
 "origin" "896 -704 -99"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 }
 {
 "classname" "misc_light_flare"
 "origin" "544 640 733"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"targetShaderName" "textures/nexus6/flare_red_02"
 }
 {
 "classname" "misc_light_flare"
 "origin" "992 -912 493"
 "radius" "5 0 50"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "radius" "5 0 50"
 "origin" "992 -1184 493"
 "classname" "misc_light_flare"
@@ -556,31 +556,31 @@
 "origin" "2048 -834 336"
 "radius" "5 0 50"
 "angles" "0 270 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 90 0"
 "radius" "5 0 50"
 "origin" "2048 -1214 160"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 270 0"
 "radius" "5 0 50"
 "origin" "2048 -834 16"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 90 0"
 "radius" "5 0 50"
 "origin" "2048 -734 640"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 270 0"
 "radius" "5 0 50"
 "origin" "1664 -546 640"
@@ -596,7 +596,7 @@
 "origin" "2048 -1214 -128"
 "radius" "5 0 50"
 "angles" "0 90 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
 "targetShaderName" "textures/niveus/flare_orange_02"
@@ -617,24 +617,24 @@
 "origin" "1598 128 640"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "962 -128 640"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "1280 -127 894"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "1598 128 384"
@@ -645,10 +645,10 @@
 "origin" "1598 -128 384"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"targetShaderName" "textures/nexus6/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "834 -128 288"
