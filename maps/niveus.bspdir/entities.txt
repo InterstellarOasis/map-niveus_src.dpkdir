@@ -1,0 +1,884 @@
+{
+"message" "Niveus: Outpost 652"
+"classname" "worldspawn"
+}
+{
+"psName" "niveus/snowfall"
+"origin" "-960 64 320"
+"classname" "misc_particle_system"
+}
+{
+"classname" "misc_particle_system"
+"origin" "-960 448 320"
+"psName" "niveus/snowfall"
+}
+{
+"psName" "niveus/snowfall"
+"origin" "2816 -1984 96"
+"classname" "misc_particle_system"
+}
+{
+"classname" "misc_particle_system"
+"origin" "2816 -2368 96"
+"psName" "niveus/snowfall"
+}
+{
+"psName" "niveus/snowfall"
+"origin" "384 -2368 96"
+"classname" "misc_particle_system"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1480 -96 320"
+}
+{
+"origin" "928 240 224"
+"classname" "team_alien_acid_tube"
+}
+{
+"angle" "135"
+"origin" "2240 -2368 -200"
+"classname" "team_human_mgturret"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "1888 -2112 -144"
+"angle" "180"
+}
+{
+"angle" "90"
+"origin" "2144 -1952 -200"
+"classname" "team_human_mgturret"
+}
+{
+"origin" "2112 -2256 -208"
+"classname" "team_human_medistat"
+}
+{
+"classname" "team_human_armoury"
+"origin" "2104 -2344 -200"
+"angle" "270"
+}
+{
+"classname" "misc_particle_system"
+"origin" "384 -1984 96"
+"psName" "niveus/snowfall"
+}
+{
+"angle" "140"
+"origin" "1400 -704 56"
+"classname" "info_player_start"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*1"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*2"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*3"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*4"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*5"
+}
+{
+"classname" "target_speaker"
+"origin" "1344 -960 384"
+"noise" "sound\ambient\drone1.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "2672 -640 640"
+"noise" "sound\ambient\fan.wav"
+"spawnflags" "1"
+}
+{
+"spawnflags" "1"
+"noise" "sound\ambient\drone2.wav"
+"origin" "-384 256 160"
+"classname" "target_speaker"
+}
+{
+"classname" "misc_light_flare"
+"origin" "384 192 -35"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_02"
+}
+{
+"angle" "360"
+"origin" "1792 -2176 -128"
+"classname" "info_human_intermission"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "1328 224 320"
+"angle" "225"
+}
+{
+"classname" "team_human_spawn"
+"origin" "2240 -2048 -216"
+"angle" "135"
+}
+{
+"classname" "team_human_spawn"
+"origin" "2064 -2072 -216"
+"angle" "180"
+}
+{
+"classname" "misc_light_flare"
+"origin" "896 512 125"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_02"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "480 128 317"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_orange_01"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "1280 128 517"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1280 129 894"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 180 0"
+"radius" "5 0 50"
+"origin" "962 128 640"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 180 0"
+"radius" "5 0 50"
+"origin" "1598 -128 640"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "896 546 640"
+"radius" "5 0 50"
+"angles" "0 90 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 180 0"
+"radius" "5 0 50"
+"origin" "1438 448 640"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1122 -448 640"
+"radius" "5 0 50"
+"angles" "0 180 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2432 -546 640"
+"radius" "5 0 50"
+"angles" "0 270 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 90 0"
+"radius" "5 0 50"
+"origin" "2048 -1214 512"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2432 -896 637"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_02"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "0 256 125"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2048 -1416 -99"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_02"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "1152 -2624 -99"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2048 -2068 -88"
+"radius" "10 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "10 0 50"
+"origin" "2304 -2068 -88"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "10 0 50"
+"origin" "1792 -2068 -88"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "10 0 50"
+"origin" "2048 -2284 -88"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1792 -2284 -88"
+"radius" "10 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2304 -2284 -88"
+"radius" "10 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "10 0 50"
+"origin" "1408 -2284 -88"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "10 0 50"
+"origin" "896 -2284 -88"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1152 -2284 -88"
+"radius" "10 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"classname" "misc_light_flare"
+"origin" "896 -2068 -88"
+"radius" "10 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1408 -2068 -88"
+"radius" "10 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "10 0 50"
+"origin" "1152 -2068 -88"
+"classname" "misc_light_flare"
+}
+{
+"angle" "135"
+"origin" "1960 -2224 -216"
+"classname" "team_human_spawn"
+}
+{
+"angle" "225"
+"origin" "1276 -704 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "315"
+"origin" "1280 -768 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "180"
+"origin" "1280 -836 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "135"
+"origin" "1276 -896 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "45"
+"origin" "1280 -960 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"classname" "misc_anim_model"
+"model" "models/mapobjects/niveus/palm.md3"
+"origin" "1280 -1024 20"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*6"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*7"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*8"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*9"
+}
+{
+"origin" "768 -512 20"
+"model" "models/mapobjects/niveus/fern.md3"
+"classname" "misc_anim_model"
+"angle" "90"
+}
+{
+"classname" "misc_anim_model"
+"model" "models/mapobjects/niveus/fern.md3"
+"origin" "832 -512 20"
+"angle" "315"
+}
+{
+"origin" "896 -512 20"
+"model" "models/mapobjects/niveus/fern.md3"
+"classname" "misc_anim_model"
+"angle" "135"
+}
+{
+"origin" "960 -512 20"
+"model" "models/mapobjects/niveus/fern.md3"
+"classname" "misc_anim_model"
+"angle" "225"
+}
+{
+"origin" "1024 -512 20"
+"model" "models/mapobjects/niveus/fern.md3"
+"classname" "misc_anim_model"
+"angle" "45"
+}
+{
+"angle" "225"
+"origin" "1276 0 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "315"
+"origin" "1280 -64 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "180"
+"origin" "1280 -132 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "135"
+"origin" "1276 -192 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"angle" "45"
+"origin" "1280 -256 20"
+"model" "models/mapobjects/niveus/palm.md3"
+"classname" "misc_anim_model"
+}
+{
+"classname" "misc_anim_model"
+"model" "models/mapobjects/niveus/palm.md3"
+"origin" "1280 -320 20"
+}
+{
+"classname" "misc_anim_model"
+"model" "models/mapobjects/niveus/fern.md3"
+"origin" "1088 -512 20"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*10"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*11"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*12"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*13"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*14"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "-16 -848 125"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "672 -128 -99"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "96 -384 -99"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "1664 -1152 125"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "2176 -704 -99"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1920 -704 -99"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_01"
+}
+{
+"classname" "misc_light_flare"
+"origin" "896 -704 -99"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_02"
+}
+{
+"classname" "misc_light_flare"
+"origin" "544 640 733"
+"radius" "5 0 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/niveus/flare_red_02"
+}
+{
+"classname" "misc_light_flare"
+"origin" "992 -912 493"
+"radius" "5 0 50"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"radius" "5 0 50"
+"origin" "992 -1184 493"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2048 -834 336"
+"radius" "5 0 50"
+"angles" "0 270 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 90 0"
+"radius" "5 0 50"
+"origin" "2048 -1214 160"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 270 0"
+"radius" "5 0 50"
+"origin" "2048 -834 16"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 90 0"
+"radius" "5 0 50"
+"origin" "2048 -734 640"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 270 0"
+"radius" "5 0 50"
+"origin" "1664 -546 640"
+"classname" "misc_light_flare"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "928 -144 224"
+"angle" "37"
+}
+{
+"classname" "misc_light_flare"
+"origin" "2048 -1214 -128"
+"radius" "5 0 50"
+"angles" "0 90 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_orange_02"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "1280 -128 517"
+"classname" "misc_light_flare"
+}
+{
+"classname" "target_speaker"
+"origin" "220 -420 -168"
+"noise" "sound\ambient\electricspark.wav"
+"wait" "1"
+"random" "1"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1598 128 640"
+"radius" "5 0 50"
+"angles" "0 180 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"classname" "misc_light_flare"
+"origin" "962 -128 640"
+"radius" "5 0 50"
+"angles" "0 180 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "90 0 0"
+"radius" "5 0 50"
+"origin" "1280 -127 894"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 180 0"
+"radius" "5 0 50"
+"origin" "1598 128 384"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1598 -128 384"
+"radius" "5 0 50"
+"angles" "0 180 0"
+"targetShaderName" "textures/niveus/flare_01"
+}
+{
+"targetShaderName" "textures/niveus/flare_01"
+"angles" "0 180 0"
+"radius" "5 0 50"
+"origin" "834 -128 288"
+"classname" "misc_light_flare"
+}
+{
+"angle" "135"
+"origin" "1272 -16 320"
+"classname" "team_alien_spawn"
+}
+{
+"classname" "team_human_reactor"
+"origin" "2256 -2192 -200"
+"angle" "315"
+}
+{
+"classname" "info_alien_intermission"
+"origin" "1024 -192 448"
+"angle" "35"
+}
+{
+"classname" "misc_particle_system"
+"origin" "1248 -552 264"
+"psName" "niveus/bigSteamerDown"
+}
+{
+"classname" "misc_particle_system"
+"origin" "1088 -808 -96"
+"psName" "niveus/smallSteamerDown"
+}
+{
+"classname" "misc_particle_system"
+"origin" "208 -432 -160"
+"psName" "niveus/sparkerNorthEast"
+}
+{
+"classname" "team_alien_overmind"
+"origin" "1488 128 320"
+"angle" "17"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1136 0 288"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*15"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"model" "*16"
+}
+{
+"classname" "target_speaker"
+"origin" "1248 -552 248"
+"noise" "sound\ambient\steam.wav"
+"spawnflags" "1"
+}
+{
+"spawnflags" "1"
+"noise" "sound\ambient\steam.wav"
+"origin" "1088 -808 -112"
+"classname" "target_speaker"
+}
+{
+"classname" "misc_particle_system"
+"origin" "796 232 111"
+"psName" "niveus/sparkerDown"
+}
+{
+"angle" "90.000000"
+"message" "^7Plant Room^7"
+"origin" "1288.865967 -629.404236 56.731903"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^1^1Alien Storage^7"
+"origin" "915.794922 486.517090 19.074131"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^1^1Alien Base Entrance^7"
+"origin" "380.325806 127.174911 160.125336"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^1^1Alien Base^7"
+"origin" "1310.031128 109.094193 327.749390"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Pipes^7"
+"origin" "2055.121826 -623.510803 556.125000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Stairs Top^7"
+"origin" "2198.866943 -1097.130127 460.125305"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Stairs Middle^7"
+"origin" "2058.267578 -1056.087402 60.407070"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Stairs Bottom^7"
+"origin" "2058.267578 -1056.087402 -211.860626"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Base^7"
+"origin" "2030.510986 -1413.386963 -211.874695"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Base^7"
+"origin" "2101.180420 -2269.143799 -211.874924"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Base^7"
+"origin" "1020.656738 -2178.844971 -211.875000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Base Entrance^7"
+"origin" "1140.729858 -1322.076660 -193.217453"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Ledge Room^7"
+"origin" "375.551544 -1214.111938 -31.842342"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7U-Hall^7"
+"origin" "600.957825 -650.557312 -172.457047"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Red Room^7"
+"origin" "1316.056030 -700.419373 -166.650620"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Red Room Hall^7"
+"origin" "2320.941406 -770.028870 -211.875000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^74-Door^7"
+"origin" "421.862701 -336.176086 -175.582565"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^72-Ramp^7"
+"origin" "359.397583 657.527832 -139.751236"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^72-Ramp^7"
+"origin" "463.939301 633.074707 154.043854"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Pipe Dropoff^7"
+"origin" "686.353210 614.179871 587.343506"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Window Room Hall^7"
+"origin" "48.037437 287.725067 56.498569"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Window Room^7"
+"origin" "-471.717743 304.508636 57.000000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Red Elbow^7"
+"origin" "-61.798401 -884.994507 23.518990"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Crates Room^7"
+"origin" "989.156433 -883.834839 223.320862"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Crates Room^7"
+"origin" "1568.410767 -1036.959351 435.960663"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Stairs Ceiling^7"
+"origin" "2079.904541 -986.874207 883.836548"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Human Hallway^7"
+"origin" "1735.033447 -1591.019653 -211.874939"
+"classname" "target_location"
+}
