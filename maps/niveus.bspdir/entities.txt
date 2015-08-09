@@ -97,18 +97,18 @@
 {
 "classname" "target_speaker"
 "origin" "1344 -960 384"
-"noise" "sound\ambient\drone1.wav"
+"noise" "sound/ambient/drone1"
 "spawnflags" "1"
 }
 {
 "classname" "target_speaker"
 "origin" "2672 -640 640"
-"noise" "sound\ambient\fan.wav"
+"noise" "sound/ambient/fan"
 "spawnflags" "1"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\drone2.wav"
+"noise" "sound/ambient/drone2"
 "origin" "-384 256 160"
 "classname" "target_speaker"
 }
@@ -608,7 +608,7 @@
 {
 "classname" "target_speaker"
 "origin" "220 -420 -168"
-"noise" "sound\ambient\electricspark.wav"
+"noise" "sound/ambient/electricspark"
 "wait" "1"
 "random" "1"
 }
@@ -706,12 +706,12 @@
 {
 "classname" "target_speaker"
 "origin" "1248 -552 248"
-"noise" "sound\ambient\steam.wav"
+"noise" "sound/ambient/steam"
 "spawnflags" "1"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\steam.wav"
+"noise" "sound/ambient/steam"
 "origin" "1088 -808 -112"
 "classname" "target_speaker"
 }
