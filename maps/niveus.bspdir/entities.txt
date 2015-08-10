@@ -1,6 +1,7 @@
 {
 "message" "Niveus: Outpost 652"
 "classname" "worldspawn"
+"colorGrade" "gfx/niveus/colorgrading.png"
 }
 {
 "psName" "niveus/snowfall"
