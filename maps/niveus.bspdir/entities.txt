@@ -1,7 +1,7 @@
 {
 "message" "Niveus: Outpost 652"
 "classname" "worldspawn"
-"colorGrade" "gfx/niveus/colorgrading.png"
+"gradingTexture" "gfx/niveus/colorgrading.png"
 }
 {
 "psName" "niveus/snowfall"
@@ -68,7 +68,7 @@
 {
 "yaw" "140"
 "origin" "1400 -704 56"
-"classname" "pos_player_spawn"
+"classname" "pos_player_intermission"
 }
 {
 "yaw" "-1"
