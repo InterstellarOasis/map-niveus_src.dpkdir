@@ -707,12 +707,12 @@
 {
 "classname" "sfx_speaker"
 "origin" "1248 -552 248"
-"noise" "sound/ambient/steam"
+"noise" "sound/niveus/steam"
 "spawnflags" "1"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/steam"
+"noise" "sound/niveus/steam"
 "origin" "1088 -808 -112"
 "classname" "sfx_speaker"
 }
