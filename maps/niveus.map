@@ -37176,7 +37176,7 @@ niveus/pewter_128
 "origin" "834 -128 288"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -37191,7 +37191,7 @@ niveus/pewter_128
 "_color" "1 1 .9"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "1598 -128 384"
@@ -37724,7 +37724,7 @@ niveus/pewter_128
 "origin" "1598 128 384"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -37998,7 +37998,7 @@ niveus/pewter_128
 "origin" "1280 -127 894"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "classname" "light"
@@ -38227,7 +38227,7 @@ niveus/pewter_128
 "_color" "1 1 .9"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "962 -128 640"
@@ -38501,7 +38501,7 @@ niveus/pewter_128
 "_color" "1 1 .9"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "1598 128 640"
@@ -38780,7 +38780,7 @@ niveus/pewter_128
 "origin" "1280 -128 517"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_orange_02"
+"shader" "textures/niveus/flare_orange_02"
 }
 {
 "classname" "light"
@@ -38788,7 +38788,7 @@ niveus/pewter_128
 "origin" "2048 -1168 -128"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 90 0"
 "radius" "5 0 50"
 "origin" "2048 -1214 -128"
@@ -39364,7 +39364,7 @@ niveus/bulb_white_s
 "origin" "1664 -546 640"
 "radius" "5 0 50"
 "angles" "0 270 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -39377,7 +39377,7 @@ niveus/bulb_white_s
 "origin" "2048 -734 640"
 "radius" "5 0 50"
 "angles" "0 90 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -39390,7 +39390,7 @@ niveus/bulb_white_s
 "origin" "2048 -834 16"
 "radius" "5 0 50"
 "angles" "0 270 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "origin" "2048 -880 16"
@@ -39402,7 +39402,7 @@ niveus/bulb_white_s
 "origin" "2048 -1214 160"
 "radius" "5 0 50"
 "angles" "0 90 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "origin" "2048 -1168 160"
@@ -39415,7 +39415,7 @@ niveus/bulb_white_s
 "origin" "2048 -880 336"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 270 0"
 "radius" "5 0 50"
 "origin" "2048 -834 336"
@@ -39425,16 +39425,16 @@ niveus/bulb_white_s
 "classname" "misc_light_flare"
 "origin" "992 -1184 493"
 "radius" "5 0 50"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "radius" "5 0 50"
 "origin" "992 -912 493"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "544 640 733"
@@ -39447,14 +39447,14 @@ niveus/bulb_white_s
 "_color" "1 0 0"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "896 -704 -99"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_01"
+"shader" "textures/niveus/flare_red_01"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "1920 -704 -99"
@@ -39465,7 +39465,7 @@ niveus/bulb_white_s
 "origin" "2176 -704 -99"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
 "origin" "1664 -1152 80"
@@ -39478,28 +39478,28 @@ niveus/bulb_white_s
 "origin" "1664 -1152 125"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
 "classname" "misc_light_flare"
 "origin" "96 -384 -99"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
 "classname" "misc_light_flare"
 "origin" "672 -128 -99"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
 "classname" "misc_light_flare"
 "origin" "-16 -848 125"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
 "_color" "1 0 0"
@@ -44740,24 +44740,24 @@ niveus/bulb_white_s
 "origin" "1152 -2068 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "1408 -2068 -88"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "896 -2068 -88"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "1152 -2284 -88"
@@ -44768,24 +44768,24 @@ niveus/bulb_white_s
 "origin" "896 -2284 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "1408 -2284 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "2304 -2284 -88"
 "classname" "misc_light_flare"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "1792 -2284 -88"
@@ -44796,24 +44796,24 @@ niveus/bulb_white_s
 "origin" "2048 -2284 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "1792 -2068 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "classname" "misc_light_flare"
 "origin" "2304 -2068 -88"
 "radius" "10 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "10 0 50"
 "origin" "2048 -2068 -88"
@@ -45842,10 +45842,10 @@ niveus/pewter_128
 "origin" "1152 -2624 -99"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "2048 -1416 -99"
@@ -45856,10 +45856,10 @@ niveus/pewter_128
 "origin" "0 256 125"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "2432 -896 637"
@@ -45876,7 +45876,7 @@ niveus/pewter_128
 "origin" "2048 -1214 512"
 "radius" "5 0 50"
 "angles" "0 90 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "origin" "2048 -1168 512"
@@ -46013,7 +46013,7 @@ niveus/dark_metal
 "_color" "1 1 .9"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 270 0"
 "radius" "5 0 50"
 "origin" "2432 -546 640"
@@ -46026,7 +46026,7 @@ niveus/dark_metal
 "_color" "1 1 .9"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 180 0"
 "radius" "5 0 50"
 "origin" "1122 -448 640"
@@ -47603,7 +47603,7 @@ niveus/pewter_128
 "origin" "1438 448 640"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -47618,7 +47618,7 @@ niveus/pewter_128
 "_color" "1 1 .9"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "0 90 0"
 "radius" "5 0 50"
 "origin" "896 546 640"
@@ -48673,7 +48673,7 @@ niveus/pewter_128
 "origin" "1598 -128 640"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -48947,7 +48947,7 @@ niveus/pewter_128
 "origin" "962 128 640"
 "radius" "5 0 50"
 "angles" "0 180 0"
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 }
 {
 "_color" "1 1 .9"
@@ -48956,7 +48956,7 @@ niveus/pewter_128
 "classname" "light"
 }
 {
-"targetShaderName" "textures/niveus/flare_01"
+"shader" "textures/niveus/flare_01"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "1280 129 894"
@@ -49228,7 +49228,7 @@ niveus/pewter_128
 "origin" "1280 128 517"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_orange_01"
+"shader" "textures/niveus/flare_orange_01"
 }
 {
 "classname" "func_group"
@@ -49521,7 +49521,7 @@ niveus/tin_s
 "origin" "480 128 317"
 "radius" "5 0 50"
 "angles" "90 0 0"
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 }
 {
 "_color" "1 0 0"
@@ -49536,7 +49536,7 @@ niveus/tin_s
 "_color" "1 0 0"
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "896 512 125"
@@ -49842,7 +49842,7 @@ niveus/bulb_red_s
 }
 }
 {
-"targetShaderName" "textures/niveus/flare_red_02"
+"shader" "textures/niveus/flare_red_02"
 "angles" "90 0 0"
 "radius" "5 0 50"
 "origin" "384 192 -35"
