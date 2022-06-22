@@ -25078,12 +25078,12 @@ niveus/barrel_rst_top
 {
 "classname" "target_speaker"
 "origin" "1088 -808 -112"
-"noise" "sound\ambient\steam.wav"
+"noise" "sound/ambient/steam"
 "spawnflags" "1"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\steam.wav"
+"noise" "sound/ambient/steam"
 "origin" "1248 -552 248"
 "classname" "target_speaker"
 }
@@ -38771,7 +38771,7 @@ niveus/pewter_128
 {
 "random" "1"
 "wait" "1"
-"noise" "sound\ambient\electricspark.wav"
+"noise" "sound/ambient/electricspark"
 "origin" "220 -420 -168"
 "classname" "target_speaker"
 }
@@ -49921,18 +49921,18 @@ niveus/bulb_red_s
 {
 "classname" "target_speaker"
 "origin" "-384 256 160"
-"noise" "sound\ambient\drone2.wav"
+"noise" "sound/ambient/drone2"
 "spawnflags" "1"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\fan.wav"
+"noise" "sound/ambient/fan"
 "origin" "2672 -640 640"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\drone1.wav"
+"noise" "sound/ambient/drone1"
 "origin" "1344 -960 384"
 "classname" "target_speaker"
 }
