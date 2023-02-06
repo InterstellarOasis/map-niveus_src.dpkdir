@@ -1,8 +1,8 @@
 {
 "classname" "worldspawn"
 "message" "Niveus: Outpost 652"
-"_minlight" "2"
 "gradingTexture" "gfx/niveus/colorgrading"
+"_minlight" "2"
 {
 ( 648 -1088 -32 ) ( 648 -1088 -96 ) ( 760 -1088 -96 ) niveus/base_grooved 128 0 0 0.500000 0.500000 0 0 0
 ( 664 -1344 -32 ) ( 664 -1344 -96 ) ( 552 -1344 -96 ) niveus/base_grooved 128 0 0 0.500000 0.500000 0 0 0
