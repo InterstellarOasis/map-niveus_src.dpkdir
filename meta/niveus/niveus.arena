@@ -1,5 +1,6 @@
 {
-	map			"niveus"
-	longname	"Niveus: Outpost 652"
-	type		"tremulous"
+	map "niveus"
+	longname "Niveus: Outpost 652"
+	author "Jex"
+	type "tremulous"
 }
