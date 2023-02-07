@@ -10,7 +10,7 @@ This port is an Interstellar Oasis initiative: [https://github.com/InterstellarO
 Levelshot
 ---------
 
-![Levelshot](meta/niveus/niveus_web.jpg)
+![Levelshot](meta/niveus/niveus.webp)
 
 How-to
 ------
